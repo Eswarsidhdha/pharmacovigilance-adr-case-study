@@ -15,8 +15,8 @@ Her symptoms began several days after treatment was initiated and progressively 
 | Sex                      | Female                                                 |
 | Weight                   | 58 kg                                                  |
 | Recent diagnosis         | Respiratory tract infection                            |
-| Relevant medical history | No significant history reported in this simulated case |
-| Known drug allergies     | None reported                                          |
+| Relevant medical history | nill                                                   |
+| Known drug allergies     | nill                                                   |
 
 ## 3. Medication History
 
@@ -24,8 +24,7 @@ Her symptoms began several days after treatment was initiated and progressively 
 | ----------------------- | -------------------------------- | 
 | Amoxicillin–clavulanate | 625 mg orally, three times daily | 
 | Paracetamol             | 500 mg orally, as needed         |             
-| Multivitamin            | One tablet daily                 |           |
-  Supplement
+| Multivitamin Supplement | One tablet daily                 |           
 
 
 ## 4. Symptoms and Timeline
